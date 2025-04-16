@@ -12,7 +12,6 @@
     <RepositoryUrl>https://github.com/mcraiha/libktxsharp.git</RepositoryUrl>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Configurations>Debug;Release</Configurations>
   </PropertyGroup>
 
 </Project>
